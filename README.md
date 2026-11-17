@@ -1,7 +1,7 @@
 # Citizen Assist AI — Soluções em Energias Renováveis e Sustentáveis
 
 > **Disciplina:** Soluções em Energias Renováveis e Sustentáveis (SERS)  
-> **Curso:** Ciência da Computação — Turmas 1CC (FIAP — Global Solution 2026.2)
+> **Curso:** Ciência da Computação — Turma 1CCA (FIAP — Global Solution 2026.2)
 
 ## 👥 Integrantes do Grupo
 * **Guilherme Lopes Muniz** — RM: 569521
